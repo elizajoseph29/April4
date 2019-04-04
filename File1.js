@@ -7,4 +7,4 @@ var user={
 };
 for (key in user){
     console.log(key);
-}
+}gi

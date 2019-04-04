@@ -1,15 +1,11 @@
 
-//Printing numbers upto 11
-console.log("The numbers are :")
-for(var i=1;i<=11;i++)
-{
-    console.log(i);    
-}
-//Addition using while loop
+//Printing numbers upto 11 and Addition using while loop
 var sum=0;
 var num=1;
+console.log("The numbers are :")
 while(num<=11)
 {
+    console.log(num);
     sum=sum+num;
     num++;
 }
